@@ -84,14 +84,4 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 
 [platane.github.io/snk](https://platane.github.io/snk)
 
-**local**
 
-```
-npm install
-
-npm run dev:demo
-```
-
-## Implementation
-
-[solver algorithm](./packages/solver/README.md)
