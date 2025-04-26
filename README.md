@@ -13,13 +13,13 @@
   />
 </picture>
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓐𝓻𝓹𝓲𝓽𝓪 𝓴𝓪𝓾𝓼𝓱𝓪𝓵</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Data Science, Machine Learning, and AI enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitakaushal&label=Profile%20views&color=0e75b6&style=flat" alt="arpitakaushal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitakaushal" alt="arpitakaushal" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,**
+- 🌱I’m currently learning Data Science, Machine Learning, and AI.
 
 - 📫 How to reach me **arpitakaushal538@gmail.com**
 
