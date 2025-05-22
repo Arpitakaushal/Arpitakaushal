@@ -38,11 +38,18 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arpitakaushal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=arpitakaushal&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitakaushal&theme=dark&hide_border=false&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=arpitakaushal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitakaushal&theme=dark&hide_border=false" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitakaushal&theme=dark&hide_border=false&layout=compact" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8e43ca89-984f-4f12-95b3-9838ebd8b16b" alt="Computer Work GIF" width="300" />
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
