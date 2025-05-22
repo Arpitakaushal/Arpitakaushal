@@ -24,6 +24,7 @@
 - 📫 How to reach me **arpitakaushal538@gmail.com**
 
 - 📄 Know about my experiences [fresher](fresher)
+- (https://cdn.dribbble.com/users/63407/screenshots/2498700/media/e6e242158321d2b6c14d6a7776d7a768.gif)](https://dribbble.com/shots/2498700-Toptal-Scholarship-for-Female-Developers-Winner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
